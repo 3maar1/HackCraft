@@ -20,7 +20,10 @@
 		],
 		"fabric-datagen": [
 			"com.hack.HackCraftDataGenerator"
-		]
+		],
+        "client": [
+            "com.hack.HackCraft.hackcraftClient"
+        ]
 	},
 	"mixins": [
 		"hackcraft.mixins.json"
