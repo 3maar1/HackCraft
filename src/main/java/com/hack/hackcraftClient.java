@@ -1,4 +1,11 @@
 package com.hack;
 
-public class hackcraftClient {
+import net.fabricmc.api.ClientModInitializer;
+
+public class hackcraftClient implements ClientModInitializer {
+    @Override
+    public void onInitializeClient() {
+        
+    }
 }
+-
