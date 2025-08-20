@@ -3,15 +3,15 @@
 	"id": "hackcraft",
 	"version": "${version}",
 	"name": "HackCraft",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod is made for hackcraft ysws program",
 	"authors": [
-		"Me!"
+		"3maar.."
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/3maar1/HackCraft"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/hackcraft/icon.png",
 	"environment": "*",
 	"entrypoints": {
